@@ -1,0 +1,293 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/repos/vaistai_iphone2/!svn/ver/1/Classes
+END
+GroupViewChildController.xib
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/vaistai_iphone2/!svn/ver/1/Classes/GroupViewChildController.xib
+END
+PharmacyDetailViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/vaistai_iphone2/!svn/ver/37/Classes/PharmacyDetailViewController.m
+END
+ScannerViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/vaistai_iphone2/!svn/ver/1/Classes/ScannerViewController.m
+END
+GroupViewChildController.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/vaistai_iphone2/!svn/ver/1/Classes/GroupViewChildController.h
+END
+Reachability.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/repos/vaistai_iphone2/!svn/ver/28/Classes/Reachability.h
+END
+GroupViewChildController.m
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/vaistai_iphone2/!svn/ver/1/Classes/GroupViewChildController.m
+END
+AnnotationViewController.xib
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/vaistai_iphone2/!svn/ver/9/Classes/AnnotationViewController.xib
+END
+Reachability.m
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/repos/vaistai_iphone2/!svn/ver/28/Classes/Reachability.m
+END
+GroupParser.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/repos/vaistai_iphone2/!svn/ver/1/Classes/GroupParser.h
+END
+AnnotationViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/vaistai_iphone2/!svn/ver/18/Classes/AnnotationViewController.h
+END
+DrugParser.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/repos/vaistai_iphone2/!svn/ver/1/Classes/DrugParser.h
+END
+GroupParser.m
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/repos/vaistai_iphone2/!svn/ver/1/Classes/GroupParser.m
+END
+AnnotationViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/vaistai_iphone2/!svn/ver/22/Classes/AnnotationViewController.m
+END
+DrugService.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/repos/vaistai_iphone2/!svn/ver/32/Classes/DrugService.h
+END
+DrugParser.m
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/repos/vaistai_iphone2/!svn/ver/32/Classes/DrugParser.m
+END
+GroupViewController.xib
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/vaistai_iphone2/!svn/ver/36/Classes/GroupViewController.xib
+END
+ScannerOverlayView.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/repos/vaistai_iphone2/!svn/ver/4/Classes/ScannerOverlayView.h
+END
+DrugService.m
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/repos/vaistai_iphone2/!svn/ver/36/Classes/DrugService.m
+END
+DrugListViewController.xib
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/vaistai_iphone2/!svn/ver/36/Classes/DrugListViewController.xib
+END
+DrugIconsView.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/repos/vaistai_iphone2/!svn/ver/1/Classes/DrugIconsView.h
+END
+ScannerOverlayView.m
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/repos/vaistai_iphone2/!svn/ver/4/Classes/ScannerOverlayView.m
+END
+vaistai_ltAppDelegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/vaistai_iphone2/!svn/ver/29/Classes/vaistai_ltAppDelegate.h
+END
+DrugViewController.xib
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/vaistai_iphone2/!svn/ver/36/Classes/DrugViewController.xib
+END
+GroupViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repos/vaistai_iphone2/!svn/ver/36/Classes/GroupViewController.h
+END
+DrugListViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/vaistai_iphone2/!svn/ver/36/Classes/DrugListViewController.h
+END
+DrugViewCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/repos/vaistai_iphone2/!svn/ver/1/Classes/DrugViewCell.h
+END
+DrugIconsView.m
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/repos/vaistai_iphone2/!svn/ver/9/Classes/DrugIconsView.m
+END
+GroupViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repos/vaistai_iphone2/!svn/ver/36/Classes/GroupViewController.m
+END
+DrugViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repos/vaistai_iphone2/!svn/ver/32/Classes/DrugViewController.h
+END
+vaistai_ltAppDelegate.m
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/vaistai_iphone2/!svn/ver/36/Classes/vaistai_ltAppDelegate.m
+END
+DrugListViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/vaistai_iphone2/!svn/ver/36/Classes/DrugListViewController.m
+END
+DrugViewCell.m
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/repos/vaistai_iphone2/!svn/ver/1/Classes/DrugViewCell.m
+END
+DrugViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repos/vaistai_iphone2/!svn/ver/37/Classes/DrugViewController.m
+END
+PharmaciesViewController.xib
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/vaistai_iphone2/!svn/ver/37/Classes/PharmaciesViewController.xib
+END
+PharmaciesViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/vaistai_iphone2/!svn/ver/36/Classes/PharmaciesViewController.h
+END
+StationAnnotation.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/repos/vaistai_iphone2/!svn/ver/1/Classes/StationAnnotation.h
+END
+GroupService.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/repos/vaistai_iphone2/!svn/ver/1/Classes/GroupService.h
+END
+PharmaciesViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/vaistai_iphone2/!svn/ver/36/Classes/PharmaciesViewController.m
+END
+PharmacyParser.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/repos/vaistai_iphone2/!svn/ver/1/Classes/PharmacyParser.h
+END
+PharmacyDetailViewController.xib
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/vaistai_iphone2/!svn/ver/36/Classes/PharmacyDetailViewController.xib
+END
+StationAnnotation.m
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/repos/vaistai_iphone2/!svn/ver/1/Classes/StationAnnotation.m
+END
+GroupService.m
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/repos/vaistai_iphone2/!svn/ver/32/Classes/GroupService.m
+END
+RootViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repos/vaistai_iphone2/!svn/ver/36/Classes/RootViewController.h
+END
+ScannerViewController.xib
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/vaistai_iphone2/!svn/ver/1/Classes/ScannerViewController.xib
+END
+PharmacyParser.m
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/repos/vaistai_iphone2/!svn/ver/32/Classes/PharmacyParser.m
+END
+PharmacyDetailViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/vaistai_iphone2/!svn/ver/32/Classes/PharmacyDetailViewController.h
+END
+RootViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repos/vaistai_iphone2/!svn/ver/36/Classes/RootViewController.m
+END
+ScannerViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/vaistai_iphone2/!svn/ver/1/Classes/ScannerViewController.h
+END

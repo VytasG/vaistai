@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>server</key>
+	<string>http://www.vaistai.lt/json/</string>
+	<key>drug_search</key>
+	<string>paieska/%@.html?uid=%@</string>
+	<key>drug_info</key>
+	<string>vaistas/%@.html?uid=%@</string>
+	<key>drug_anotation</key>
+	<string>anotacija/%@.html?uid=%@</string>
+	<key>pharmacies</key>
+	<string>vaistines/%@.html?google_lat=%@&amp;google_lng=%@&amp;uid=%@</string>
+	<key>banner_location</key>
+	<string>http://www.vaistai.lt/images/banners/</string>
+	<key>drug_anotation_ito</key>
+	<string>http://www.ito.lt/vaistai/anotacija.php?alias=%@&amp;uid=%@</string>
+	<key>drug_barcode_ito</key>
+	<string>http://www.ito.lt/vaistai/anotacija_bar.php?bar=%@&amp;uid=%@</string>
+	<key>pharmacy_info</key>
+	<string>vaistine/%@.html?uid=%@</string>
+	<key>grupe</key>
+	<string>grupe/%@.html?uid=%@</string>
+	<key>barcodes</key>
+	<string>barkodas/%@.html?uid=%@</string>
+</dict>
+</plist>
